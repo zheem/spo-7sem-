@@ -1,0 +1,11 @@
+function add(a, b) {
+    foo = a + b + 15;
+    return foo;
+}
+function mul(a, b) {
+    num = 15- 1;
+    val    = a * b * num;
+    return val;
+}
+
+result = mul(44, 34) + add(13, 6);
